@@ -1,4 +1,4 @@
-# NOVA_CodeCamp18_Einstein_Puzzle
+# NOVA Code Camp 18.1 Einstein_Puzzle
 Solves the NOVA Code Camp 2018 Einstein Puzzle
 
 ## The situation
