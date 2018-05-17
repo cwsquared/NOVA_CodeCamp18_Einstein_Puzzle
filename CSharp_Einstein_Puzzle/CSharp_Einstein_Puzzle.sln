@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Einstein_Puzzle", "CSharp_Einstein_Puzzle\CSharp_Einstein_Puzzle.csproj", "{C1554358-40C8-46C3-9C9B-275761103BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1554358-40C8-46C3-9C9B-275761103BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1554358-40C8-46C3-9C9B-275761103BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1554358-40C8-46C3-9C9B-275761103BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1554358-40C8-46C3-9C9B-275761103BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0120DD0D-8D07-46FD-93B3-F1D610C685C6}
+	EndGlobalSection
+EndGlobal

@@ -14,7 +14,7 @@ Solves the NOVA Code Camp 2018 Einstein Puzzle
 2. the Android user eats Cheetos
 3. the ChromeOS user drinks Starbucks
 4. the Dell owner is on the left of the Samsung owner
-5.  the Dell owner drinks Dunkin’
+5. the Dell owner drinks Dunkin’
 6. the person who writes in Java eats Chocolate
 7. the owner of the HP writes NodeJS
 8. the developer in the center drinks Caribou
